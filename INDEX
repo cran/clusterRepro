@@ -1,0 +1,3 @@
+permuteCol		Function to randomly permute the entries within each column of a matrix
+IGP.clusterRepro	Function to compute the in-group proportion
+clusterRepro		Function to test the reproducibility of a cluster
